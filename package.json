@@ -2,7 +2,7 @@
   "author": "Jared Sohn",
   "name": "hnuserstats",
   "description": "Get statistics for comments/stories for a Hacker News user",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "repository": {
     "url": "http://www.github.com/jaredsohn/hnuserstats"
   },
@@ -14,7 +14,7 @@
     "request": "^2.34.0",
     "json2csv": "^2.2.1",
     "minimist": "0.0.8",
-    "hnuserdownload": "^0.1.5",
+    "hnuserdownload": "^0.1.7",
     "async": "^0.6.2"
   },
   "devDependencies": {},
